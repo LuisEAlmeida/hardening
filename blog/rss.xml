@@ -1,13 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>My Site Blog</title>
+        <title>Instructivo de Hardening de Servidores Red Hat - CentOS Blog</title>
         <link>https://luisealmeida.github.io/hardening/blog</link>
-        <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <description>Instructivo de Hardening de Servidores Red Hat - CentOS Blog</description>
+        <lastBuildDate>Thu, 30 Jan 2025 02:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Contenido]]></title>
+            <link>https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks</link>
+            <guid>https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks</guid>
+            <pubDate>Thu, 30 Jan 2025 02:11:32 GMT</pubDate>
+            <description><![CDATA[- Resumen Ejecutivo]]></description>
+            <content:encoded><![CDATA[<ul>
+<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#resumen-ejecutivo">Resumen Ejecutivo</a></li>
+<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#descripci%C3%B3n-breve-del-proyecto">Descripción Breve del Proyecto</a></li>
+<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#objetivos-principales">Objetivos Principales</a></li>
+<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#alcance-del-proyecto">Alcance del Proyecto</a></li>
+<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#duraci%C3%B3n">Duración</a></li>
+<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#presupuesto-aproximado">Presupuesto Aproximado</a></li>
+<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#beneficios-clave-para-la-organizaci%C3%B3n-o-el-cliente">Beneficios Clave para la Organización o el Cliente</a></li>
+<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#antecedentes-o-contexto">Antecedentes o Contexto</a></li>
+<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#c%C3%B3mo-docusaurus-ayudar%C3%A1-a-resolver-estos-problemas">Cómo Docusaurus Ayudará a Resolver Estos Problemas</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="resumen-ejecutivo">Resumen Ejecutivo<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#resumen-ejecutivo" class="hash-link" aria-label="Direct link to Resumen Ejecutivo" title="Direct link to Resumen Ejecutivo">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="descripción-breve-del-proyecto">Descripción Breve del Proyecto<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#descripci%C3%B3n-breve-del-proyecto" class="hash-link" aria-label="Direct link to Descripción Breve del Proyecto" title="Direct link to Descripción Breve del Proyecto">​</a></h3>
+<p>Este proyecto busca migrar la documentación existente sobre estándares de hardenización para una entidad bancaria a un portal basado en Docusaurus. El objetivo principal es mejorar la legibilidad, la claridad de los comandos y la calidad de la redacción. Además, se prevé implementar pipelines que permitan actualizar el portal de forma justificada y continua. Finalmente, se consolidará toda la información en un archivo único que pueda ser entregado a las entidades de control.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="objetivos-principales">Objetivos Principales<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#objetivos-principales" class="hash-link" aria-label="Direct link to Objetivos Principales" title="Direct link to Objetivos Principales">​</a></h3>
+<ul>
+<li>Desarrollar un portal de documentación que reúna los diferentes instructivos de hardenización para una entidad bancaria.</li>
+<li>Mejorar la presentación visual y la redacción, así como la claridad de los comandos necesarios para solventar los requerimientos de hardening.</li>
+<li>Publicar un estudio científico que presente los resultados del proyecto y evalúe la usabilidad del nuevo portal frente a la solución actual de la entidad.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="alcance-del-proyecto">Alcance del Proyecto<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#alcance-del-proyecto" class="hash-link" aria-label="Direct link to Alcance del Proyecto" title="Direct link to Alcance del Proyecto">​</a></h3>
+<p>El alcance incluye el desarrollo y la migración de un estándar e instructivo de hardenización para la entidad bancaria, desplegado en GitHub Pages mediante Docusaurus. Asimismo, se generará un archivo final que contenga todos los puntos de hardening, pensado para satisfacer los requerimientos de las entidades de control.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="duración">Duración<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#duraci%C3%B3n" class="hash-link" aria-label="Direct link to Duración" title="Direct link to Duración">​</a></h3>
+<p>Un periodo aproximado de 2 a 3 meses, con reuniones periódicas y semanales para el seguimiento y control.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="presupuesto-aproximado">Presupuesto Aproximado<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#presupuesto-aproximado" class="hash-link" aria-label="Direct link to Presupuesto Aproximado" title="Direct link to Presupuesto Aproximado">​</a></h3>
+<p>No aplica.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="beneficios-clave-para-la-organización-o-el-cliente">Beneficios Clave para la Organización o el Cliente<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#beneficios-clave-para-la-organizaci%C3%B3n-o-el-cliente" class="hash-link" aria-label="Direct link to Beneficios Clave para la Organización o el Cliente" title="Direct link to Beneficios Clave para la Organización o el Cliente">​</a></h3>
+<ul>
+<li>Optimización de la visualización y comprensión de los puntos de hardenización.</li>
+<li>Creación de un portal centralizado, con comandos verificados y adecuados para la ejecución de las medidas de hardening.</li>
+<li>Reducción de tiempos en actualizaciones y liberaciones de estándares e instructivos, gracias a pipelines de despliegue y control de versiones.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="antecedentes-y-propuesta">Antecedentes y Propuesta<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#antecedentes-y-propuesta" class="hash-link" aria-label="Direct link to Antecedentes y Propuesta" title="Direct link to Antecedentes y Propuesta">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="antecedente">Antecedente<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#antecedente" class="hash-link" aria-label="Direct link to Antecedente" title="Direct link to Antecedente">​</a></h3>
+<p>En la actualidad, la entidad bancaria publica y libera los estándares de hardenización para servidores Unix y Wintel mediante archivos PDF, los cuales se distribuyen de forma trimestral o semestral. Si bien este formato permite una difusión relativamente sencilla, se han identificado diversos inconvenientes:</p>
+<ul>
+<li><strong>Desactualización y Alteraciones No Controladas</strong>: Dado que el estándar en PDF no se integra a un sistema de control de versiones, resulta complicado garantizar que todos los involucrados cuenten siempre con la última versión. Además, existe la posibilidad de que se generen copias alteradas o no oficiales.</li>
+<li><strong>Dificultad para la Lectura y Copia de Comandos</strong>: Los archivos PDF pueden presentar problemas de formateo y restricciones que dificultan la selección, copia y uso directo de los comandos de hardening. Esto incrementa la probabilidad de errores a la hora de aplicarlos en un entorno real.</li>
+<li><strong>Accesibilidad Limitada y Baja Usabilidad</strong>: El formato PDF no ofrece funcionalidades de búsqueda tan eficientes como las que se pueden obtener en un portal web, lo que dificulta la localización de información específica y afecta la curva de aprendizaje de los equipos que necesitan implementar la hardenización.</li>
+<li><strong>Procesos de Liberación Largos</strong>: La publicación trimestral o semestral no se adecúa a la inmediatez que demandan las nuevas incidencias o vulnerabilidades de seguridad. Actualizar el contenido y asegurarse de que todos reciban la nueva versión se convierte en un proceso prolongado.</li>
+</ul>
+<h1>Cómo Docusaurus Ayudará a Resolver Estos Problemas</h1>
+<p>El uso de Docusaurus, un framework de documentación basado en React, ofrece diversas ventajas para mejorar la calidad, disponibilidad y control de la documentación de hardenización:</p>
+<ul>
+<li><strong>Control de Versiones Integrado</strong>: Al alojar la documentación en un repositorio Git (como GitHub o GitLab), cada cambio queda registrado. Esto ayuda a rastrear el historial de modificaciones y garantiza que los usuarios dispongan de la versión más reciente.</li>
+<li><strong>Actualizaciones Rápidas y Continuas</strong>: Docusaurus permite implementar pipelines de integración continua (CI/CD) para que las nuevas versiones de la documentación se publiquen automáticamente, reduciendo tiempos de espera y riesgos de obsolescencia.</li>
+<li><strong>Mejor Experiencia de Lectura y Búsqueda</strong>: La presentación en un portal web posibilita una navegación amigable, con índices, secciones y un motor de búsqueda interno, lo que facilita la localización de apartados o comandos específicos.</li>
+<li><strong>Formato Óptimo para Código y Comandos</strong>: Gracias al soporte de Markdown y componentes específicos, es posible resaltar código y proporcionar ejemplos interactivos, lo que minimiza errores de copia o lectura.</li>
+<li><strong>Colaboración y Revisión en Equipo</strong>: Cualquier miembro del equipo puede proponer cambios a través de pull requests o revisiones, lo cual fortalece la colaboración y asegura que los estándares estén siempre actualizados y verificados.</li>
+<li><strong>Escalabilidad y Adaptabilidad</strong>: Al ser una solución basada en tecnologías web modernas, la documentación puede escalarse a diferentes niveles de complejidad y adaptarse a múltiples plataformas, servidores o estándares de seguridad en el futuro.</li>
+</ul>
+<p>De este modo, migrar la documentación de un sistema de archivos PDF a un portal con Docusaurus permitirá a la entidad bancaria no solo mantener la información actualizada de manera más efectiva, sino también optimizar la claridad y la rapidez con la que se despliegan nuevas versiones o mejoras en los estándares de hardenización.</p>
+<h1>Alcance del Proyecto</h1>
+<p>Este proyecto contempla la migración de la documentación existente en formato PDF sobre estándares de hardenización para servidores Unix y Wintel a un portal web basado en Docusaurus. El objetivo es mejorar la legibilidad, simplificar la búsqueda y permitir actualizaciones más rápidas y controladas. Se incluirá la creación de pipelines de integración y despliegue continuo (CI/CD) que faciliten la publicación de nuevas versiones, así como la generación de un archivo final que consolide toda la información para su entrega a las entidades de control.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alcance-funcional">Alcance Funcional<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#alcance-funcional" class="hash-link" aria-label="Direct link to Alcance Funcional" title="Direct link to Alcance Funcional">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="migración-de-contenido">Migración de Contenido<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#migraci%C3%B3n-de-contenido" class="hash-link" aria-label="Direct link to Migración de Contenido" title="Direct link to Migración de Contenido">​</a></h3>
+<ul>
+<li>Trasladar la documentación de estándares de hardening de PDF a un formato web, aprovechando las funcionalidades de Docusaurus.</li>
+<li>Estructurar la información en secciones, capítulos o módulos que faciliten la navegación y comprensión de los distintos instructivos.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="control-de-versiones-y-actualizaciones">Control de Versiones y Actualizaciones<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#control-de-versiones-y-actualizaciones" class="hash-link" aria-label="Direct link to Control de Versiones y Actualizaciones" title="Direct link to Control de Versiones y Actualizaciones">​</a></h3>
+<ul>
+<li>Implementar un flujo de trabajo que permita revisar, aprobar y publicar cambios de forma centralizada y segura.</li>
+<li>Proveer la capacidad de rastrear el historial de modificaciones en la documentación, de manera que se mantenga un registro claro y ordenado.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="mejoras-en-legibilidad-y-usabilidad">Mejoras en Legibilidad y Usabilidad<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#mejoras-en-legibilidad-y-usabilidad" class="hash-link" aria-label="Direct link to Mejoras en Legibilidad y Usabilidad" title="Direct link to Mejoras en Legibilidad y Usabilidad">​</a></h3>
+<ul>
+<li>Refinar la redacción y la presentación de comandos para reducir errores de copiado o ejecución.</li>
+<li>Asegurar que la estructura de la documentación sea intuitiva, con índices, menús y sistemas de búsqueda avanzados.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="consolidación-y-entregables">Consolidación y Entregables<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#consolidaci%C3%B3n-y-entregables" class="hash-link" aria-label="Direct link to Consolidación y Entregables" title="Direct link to Consolidación y Entregables">​</a></h3>
+<ul>
+<li>Generar un único archivo (o paquete) que incluya todos los puntos de hardenización, destinado a la revisión y auditoría por parte de las entidades de control.</li>
+<li>Facilitar el acceso y la distribución interna, asegurando que cada versión cumpla con los lineamientos de seguridad y normativa vigente.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alcance-técnico">Alcance Técnico<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#alcance-t%C3%A9cnico" class="hash-link" aria-label="Direct link to Alcance Técnico" title="Direct link to Alcance Técnico">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="configuración-de-docusaurus">Configuración de Docusaurus<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#configuraci%C3%B3n-de-docusaurus" class="hash-link" aria-label="Direct link to Configuración de Docusaurus" title="Direct link to Configuración de Docusaurus">​</a></h3>
+<ul>
+<li>Instalación y personalización del portal de documentación empleando la estructura y componentes de React que provee Docusaurus.</li>
+<li>Adaptación de temas y estilos para que la presentación del contenido refleje la imagen corporativa y cumpla con las políticas del banco.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="integración-con-repositorio-git">Integración con Repositorio Git<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#integraci%C3%B3n-con-repositorio-git" class="hash-link" aria-label="Direct link to Integración con Repositorio Git" title="Direct link to Integración con Repositorio Git">​</a></h3>
+<ul>
+<li>Uso de GitHub (u otro repositorio como Azure) para hospedar el código fuente del portal, garantizando la trazabilidad de los cambios.</li>
+<li>Configuración de pipelines de integración y despliegue continuo (CI/CD) para automatizar la publicación de actualizaciones en GitHub Pages u otro servicio de hosting.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="optimización-de-contenido-y-código">Optimización de Contenido y Código<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#optimizaci%C3%B3n-de-contenido-y-c%C3%B3digo" class="hash-link" aria-label="Direct link to Optimización de Contenido y Código" title="Direct link to Optimización de Contenido y Código">​</a></h3>
+<ul>
+<li>Conversión de archivos PDF a Markdown (MD), asegurando un correcto formato de comandos y secciones.</li>
+<li>Implementación de etiquetas y metadatos (frontmatter) para mejorar la búsqueda y el filtrado del contenido.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="pruebas-y-validaciones">Pruebas y Validaciones<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#pruebas-y-validaciones" class="hash-link" aria-label="Direct link to Pruebas y Validaciones" title="Direct link to Pruebas y Validaciones">​</a></h3>
+<ul>
+<li>Realización de pruebas de compatibilidad en distintos navegadores y sistemas operativos.</li>
+<li>Revisión del rendimiento y de la seguridad de la plataforma, adoptando buenas prácticas de protección de la información.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="exclusiones">Exclusiones<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#exclusiones" class="hash-link" aria-label="Direct link to Exclusiones" title="Direct link to Exclusiones">​</a></h2>
+<ul>
+<li><strong>Reescritura de Políticas Internas o Reglamentos</strong>: El proyecto no contempla la modificación de lineamientos regulatorios o legales establecidos por la entidad bancaria o entidades de control.</li>
+<li><strong>Desarrollo de Integraciones con Sistemas Externos</strong>: No se prevé la creación de APIs o la conexión con plataformas de terceros, más allá del repositorio y el entorno de despliegue del portal.</li>
+<li><strong>Capacitaciones Masivas</strong>: Aunque se brindará orientación sobre el uso y actualización de la plataforma, la formación extensiva a todo el personal o a terceros no forma parte del alcance del proyecto.</li>
+</ul>
+<h1>Objetivos Generales y Específicos</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="objetivo-general">Objetivo General<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#objetivo-general" class="hash-link" aria-label="Direct link to Objetivo General" title="Direct link to Objetivo General">​</a></h2>
+<p>Implementar un portal web basado en Docusaurus para la documentación de estándares de hardenización en servidores Unix, que mejore la legibilidad, facilite la actualización continua y ofrezca un recurso unificado para su validación.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="objetivos-específicos">Objetivos Específicos<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#objetivos-espec%C3%ADficos" class="hash-link" aria-label="Direct link to Objetivos Específicos" title="Direct link to Objetivos Específicos">​</a></h2>
+<ul>
+<li>Migrar la documentación desde archivos PDF a un entorno web, asegurando una estructura de contenidos clara y de fácil navegación.</li>
+<li>Mejorar la legibilidad y consistencia de los comandos y procedimientos de hardening, reduciendo el riesgo de errores y aumentando la eficiencia en la aplicación de cada punto.</li>
+<li>Implementar pipelines de integración y despliegue continuo (CI/CD) para automatizar el proceso de actualización y liberación de nuevas versiones, brindando control de cambios y trazabilidad.</li>
+<li>Generar un archivo unificado de referencia que consolide todos los puntos de hardenización, sirviendo como documento oficial para auditorías y entidades de control.</li>
+<li>Analizar y validar la usabilidad del nuevo portal mediante un estudio comparativo que evalúe los beneficios frente al modelo anterior basado en archivos PDF, garantizando así la efectividad de la migración.</li>
+</ul>
+<h1>Entregables</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="portal-web-en-docusaurus">Portal Web en Docusaurus<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#portal-web-en-docusaurus" class="hash-link" aria-label="Direct link to Portal Web en Docusaurus" title="Direct link to Portal Web en Docusaurus">​</a></h2>
+<ul>
+<li>Migración completa de los estándares de hardenización (Unix) a un portal web construido con Docusaurus.</li>
+<li>Estructuración de la documentación en secciones claras y búsqueda integrada para facilitar la consulta.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="pipelines-de-integración-y-despliegue-continuo-cicd">Pipelines de Integración y Despliegue Continuo (CI/CD)<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#pipelines-de-integraci%C3%B3n-y-despliegue-continuo-cicd" class="hash-link" aria-label="Direct link to Pipelines de Integración y Despliegue Continuo (CI/CD)" title="Direct link to Pipelines de Integración y Despliegue Continuo (CI/CD)">​</a></h2>
+<ul>
+<li>Configuración de flujos automáticos para validar, aprobar y publicar nuevas versiones de la documentación.</li>
+<li>Registro y seguimiento de cambios que permita tener trazabilidad y control de versiones.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="documento-unificado-de-hardening-para-entidades-de-control">Documento Unificado de Hardening para Entidades de Control<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#documento-unificado-de-hardening-para-entidades-de-control" class="hash-link" aria-label="Direct link to Documento Unificado de Hardening para Entidades de Control" title="Direct link to Documento Unificado de Hardening para Entidades de Control">​</a></h2>
+<ul>
+<li>Consolidación de todos los puntos de hardenización en un formato único (por ejemplo, PDF o anexo), que sirva como referencia oficial para auditorías y revisiones regulatorias.</li>
+<li>Inclusión de comandos, descripciones de procedimientos y justificaciones técnicas de cada medida de seguridad.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="manual-de-usuario-y-guía-de-operación-del-portal">Manual de Usuario y Guía de Operación del Portal<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#manual-de-usuario-y-gu%C3%ADa-de-operaci%C3%B3n-del-portal" class="hash-link" aria-label="Direct link to Manual de Usuario y Guía de Operación del Portal" title="Direct link to Manual de Usuario y Guía de Operación del Portal">​</a></h2>
+<ul>
+<li>Instrucciones detalladas sobre cómo navegar, buscar información y proponer cambios dentro del portal en Docusaurus.</li>
+<li>Orientaciones para el uso de pipelines (aprobaciones y despliegues) y mejores prácticas para mantener la documentación actualizada.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="estudio-comparativo-y-validación-de-usabilidad">Estudio Comparativo y Validación de Usabilidad<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#estudio-comparativo-y-validaci%C3%B3n-de-usabilidad" class="hash-link" aria-label="Direct link to Estudio Comparativo y Validación de Usabilidad" title="Direct link to Estudio Comparativo y Validación de Usabilidad">​</a></h2>
+<ul>
+<li>Informe que muestre los resultados de comparar la nueva solución frente al uso de archivos PDF, evaluando la facilidad de uso, la rapidez para encontrar información y la calidad de la documentación.</li>
+<li>Conclusiones y recomendaciones basadas en el feedback de usuarios clave o equipos de TI.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="acta-de-cierre-e-informe-final">Acta de Cierre e Informe Final<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#acta-de-cierre-e-informe-final" class="hash-link" aria-label="Direct link to Acta de Cierre e Informe Final" title="Direct link to Acta de Cierre e Informe Final">​</a></h2>
+<ul>
+<li>Documento que recoja las lecciones aprendidas, el cumplimiento de los objetivos y la confirmación de la entrega de todos los componentes del proyecto.</li>
+<li>Validación formal por parte de los interesados y evidencia de que se han cumplido los criterios de aceptación.</li>
+</ul>
+<h1>Metodología de Trabajo</h1>
+<p>La metodología propuesta combina elementos de Scrum, Cascada y Kamba para aprovechar la claridad y estructura de un enfoque secuencial, al tiempo que se incorporan iteraciones cortas que permitan ajustar y mejorar el producto conforme avanza el proyecto.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="herramientas-y-comunicación">Herramientas y Comunicación:<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#herramientas-y-comunicaci%C3%B3n" class="hash-link" aria-label="Direct link to Herramientas y Comunicación:" title="Direct link to Herramientas y Comunicación:">​</a></h2>
+<ul>
+<li><strong>Microsoft Teams</strong>: Principal canal de comunicación para reuniones de seguimiento, intercambio de archivos y coordinación diaria.</li>
+<li>Se programarán videoconferencias quincenales para la validación de avances e hitos.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="git-y-github">Git y GitHub:<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#git-y-github" class="hash-link" aria-label="Direct link to Git y GitHub:" title="Direct link to Git y GitHub:">​</a></h2>
+<ul>
+<li>Repositorio principal donde se almacenarán los archivos fuente del portal en Docusaurus y los documentos relacionados.</li>
+<li>Se habilitarán branches para cada fase o sprint, facilitando el control de versiones y la colaboración entre los miembros del equipo.</li>
+<li>Mediante GitHub Actions (o herramientas equivalentes), se implementarán pipelines de integración y despliegue continuo (CI/CD).</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="registro-de-progreso-y-documentación">Registro de Progreso y Documentación:<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#registro-de-progreso-y-documentaci%C3%B3n" class="hash-link" aria-label="Direct link to Registro de Progreso y Documentación:" title="Direct link to Registro de Progreso y Documentación:">​</a></h2>
+<ul>
+<li>Las decisiones clave y acuerdos se documentarán en actas breves dentro de Teams y reuniones semanales, asegurando transparencia y trazabilidad.</li>
+</ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://luisealmeida.github.io/hardening/blog/welcome</link>
