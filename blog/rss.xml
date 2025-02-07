@@ -4,39 +4,81 @@
         <title>Proyecto de Hardening Blog</title>
         <link>https://luisealmeida.github.io/hardening/blog</link>
         <description>Proyecto de Hardening Blog</description>
-        <lastBuildDate>Thu, 30 Jan 2025 02:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Contenido]]></title>
-            <link>https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks</link>
-            <guid>https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks</guid>
+            <title><![CDATA[2025-02-07]]></title>
+            <link>https://luisealmeida.github.io/hardening/blog/2025-02-07-mdx-blog-post</link>
+            <guid>https://luisealmeida.github.io/hardening/blog/2025-02-07-mdx-blog-post</guid>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Esta semana hemos implementado una serie de actualizaciones enfocadas en mejorar la experiencia visual y la calidad del contenido en nuestra plataforma.]]></description>
+            <content:encoded><![CDATA[<p>Esta semana hemos implementado una serie de actualizaciones enfocadas en mejorar la experiencia visual y la calidad del contenido en nuestra plataforma.</p>
+<p>A continuación, te contamos los detalles:</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-actualización-de-estilos-css-alineados-a-la-identidad-de-la-organización">🎨 Actualización de Estilos CSS Alineados a la Identidad de la Organización<a href="https://luisealmeida.github.io/hardening/blog/2025-02-07-mdx-blog-post#-actualizaci%C3%B3n-de-estilos-css-alineados-a-la-identidad-de-la-organizaci%C3%B3n" class="hash-link" aria-label="Direct link to 🎨 Actualización de Estilos CSS Alineados a la Identidad de la Organización" title="Direct link to 🎨 Actualización de Estilos CSS Alineados a la Identidad de la Organización">​</a></h2>
+<p>Hemos realizado ajustes significativos en los estilos CSS para que reflejen fielmente los colores corporativos y la identidad visual de la organización. Estos cambios incluyen:</p>
+<ul>
+<li><strong>Paleta de colores renovada</strong>: Tonos más coherentes con la marca en botones, encabezados y fondos.</li>
+<li><strong>Consistencia visual</strong>: Unificación de estilos en todos los componentes para una navegación más intuitiva.</li>
+<li><strong>Mejoras en accesibilidad</strong>: Contraste optimizado para una mejor legibilidad.</li>
+</ul>
+<p>Estas modificaciones aseguran una interfaz más profesional y alineada con nuestros valores institucionales.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-nuevo-componente-tarjetas-dinámicas-en-el-landing-page">🚀 Nuevo Componente: Tarjetas Dinámicas en el Landing Page<a href="https://luisealmeida.github.io/hardening/blog/2025-02-07-mdx-blog-post#-nuevo-componente-tarjetas-din%C3%A1micas-en-el-landing-page" class="hash-link" aria-label="Direct link to 🚀 Nuevo Componente: Tarjetas Dinámicas en el Landing Page" title="Direct link to 🚀 Nuevo Componente: Tarjetas Dinámicas en el Landing Page">​</a></h2>
+<p>¡El landing page estrena un diseño más atractivo! Hemos incorporado:</p>
+<ul>
+<li><strong>Tarjetas informativas (cards)</strong>: Diseñadas para destacar información clave, promociones o novedades.</li>
+<li><strong>Diseño responsivo</strong>: Adaptables a cualquier dispositivo móvil o escritorio.</li>
+<li><strong>Animaciones sutiles</strong>: Interacciones fluidas para captar la atención del usuario.</li>
+</ul>
+<p>Estas tarjetas mejorarán la navegación y ayudarán a los visitantes a encontrar contenido relevante de forma rápida.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-mejoras-en-la-redacción-de-artículos">✍️ Mejoras en la Redacción de Artículos<a href="https://luisealmeida.github.io/hardening/blog/2025-02-07-mdx-blog-post#%EF%B8%8F-mejoras-en-la-redacci%C3%B3n-de-art%C3%ADculos" class="hash-link" aria-label="Direct link to ✍️ Mejoras en la Redacción de Artículos" title="Direct link to ✍️ Mejoras en la Redacción de Artículos">​</a></h2>
+<p>El equipo de contenido ha trabajado en:</p>
+<ul>
+<li><strong>Lenguaje más claro y conciso</strong>: Revisión de artículos y puntos de los estándares de CIS.</li>
+<li><strong>Corrección de detalles gramaticales</strong>: Artículos más pulidos y profesionales.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-qué-viene-próximamente">🔮 ¿Qué Viene Próximamente?<a href="https://luisealmeida.github.io/hardening/blog/2025-02-07-mdx-blog-post#-qu%C3%A9-viene-pr%C3%B3ximamente" class="hash-link" aria-label="Direct link to 🔮 ¿Qué Viene Próximamente?" title="Direct link to 🔮 ¿Qué Viene Próximamente?">​</a></h2>
+<p>Estamos preparando integraciones con nuevas herramientas, funcionalidades y componentes.
+¡Mantente atento de nuestro blog para conocer las actualizaciones!</p>
+<hr>
+<p>¡Agradecemos tus comentarios! Si tienes sugerencias o notas algún detalle por ajustar, no dudes en contactarnos a través de GitHub.</p>]]></content:encoded>
+            <category>Hardening</category>
+            <category>Versioning</category>
+        </item>
+        <item>
+            <title><![CDATA[El Proyecto]]></title>
+            <link>https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks</link>
+            <guid>https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks</guid>
             <pubDate>Thu, 30 Jan 2025 02:11:32 GMT</pubDate>
             <description><![CDATA[Resumen Ejecutivo]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="resumen-ejecutivo">Resumen Ejecutivo<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#resumen-ejecutivo" class="hash-link" aria-label="Direct link to Resumen Ejecutivo" title="Direct link to Resumen Ejecutivo">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="descripción-breve-del-proyecto">Descripción Breve del Proyecto<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#descripci%C3%B3n-breve-del-proyecto" class="hash-link" aria-label="Direct link to Descripción Breve del Proyecto" title="Direct link to Descripción Breve del Proyecto">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="resumen-ejecutivo">Resumen Ejecutivo<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#resumen-ejecutivo" class="hash-link" aria-label="Direct link to Resumen Ejecutivo" title="Direct link to Resumen Ejecutivo">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="descripción-breve-del-proyecto">Descripción Breve del Proyecto<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#descripci%C3%B3n-breve-del-proyecto" class="hash-link" aria-label="Direct link to Descripción Breve del Proyecto" title="Direct link to Descripción Breve del Proyecto">​</a></h3>
 <p>Este proyecto busca migrar la documentación existente sobre estándares de hardenización para una entidad bancaria a un portal basado en Docusaurus. El objetivo principal es mejorar la legibilidad, la claridad de los comandos y la calidad de la redacción. Además, se prevé implementar pipelines que permitan actualizar el portal de forma justificada y continua. Finalmente, se consolidará toda la información en un archivo único que pueda ser entregado a las entidades de control.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="objetivos-principales">Objetivos Principales<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#objetivos-principales" class="hash-link" aria-label="Direct link to Objetivos Principales" title="Direct link to Objetivos Principales">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="objetivos-principales">Objetivos Principales<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#objetivos-principales" class="hash-link" aria-label="Direct link to Objetivos Principales" title="Direct link to Objetivos Principales">​</a></h3>
 <ul>
 <li>Desarrollar un portal de documentación que reúna los diferentes instructivos de hardenización para una entidad bancaria.</li>
 <li>Mejorar la presentación visual y la redacción, así como la claridad de los comandos necesarios para solventar los requerimientos de hardening.</li>
 <li>Publicar un estudio científico que presente los resultados del proyecto y evalúe la usabilidad del nuevo portal frente a la solución actual de la entidad.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="alcance-del-proyecto">Alcance del Proyecto<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#alcance-del-proyecto" class="hash-link" aria-label="Direct link to Alcance del Proyecto" title="Direct link to Alcance del Proyecto">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="alcance-del-proyecto">Alcance del Proyecto<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#alcance-del-proyecto" class="hash-link" aria-label="Direct link to Alcance del Proyecto" title="Direct link to Alcance del Proyecto">​</a></h3>
 <p>El alcance incluye el desarrollo y la migración de un estándar e instructivo de hardenización para la entidad bancaria, desplegado en GitHub Pages mediante Docusaurus. Asimismo, se generará un archivo final que contenga todos los puntos de hardening, pensado para satisfacer los requerimientos de las entidades de control.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="duración">Duración<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#duraci%C3%B3n" class="hash-link" aria-label="Direct link to Duración" title="Direct link to Duración">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="duración">Duración<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#duraci%C3%B3n" class="hash-link" aria-label="Direct link to Duración" title="Direct link to Duración">​</a></h3>
 <p>Un periodo aproximado de 2 a 3 meses, con reuniones periódicas y semanales para el seguimiento y control.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="presupuesto-aproximado">Presupuesto Aproximado<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#presupuesto-aproximado" class="hash-link" aria-label="Direct link to Presupuesto Aproximado" title="Direct link to Presupuesto Aproximado">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="presupuesto-aproximado">Presupuesto Aproximado<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#presupuesto-aproximado" class="hash-link" aria-label="Direct link to Presupuesto Aproximado" title="Direct link to Presupuesto Aproximado">​</a></h3>
 <p>No aplica.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="beneficios-clave-para-la-organización-o-el-cliente">Beneficios Clave para la Organización o el Cliente<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#beneficios-clave-para-la-organizaci%C3%B3n-o-el-cliente" class="hash-link" aria-label="Direct link to Beneficios Clave para la Organización o el Cliente" title="Direct link to Beneficios Clave para la Organización o el Cliente">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="beneficios-clave-para-la-organización-o-el-cliente">Beneficios Clave para la Organización o el Cliente<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#beneficios-clave-para-la-organizaci%C3%B3n-o-el-cliente" class="hash-link" aria-label="Direct link to Beneficios Clave para la Organización o el Cliente" title="Direct link to Beneficios Clave para la Organización o el Cliente">​</a></h3>
 <ul>
 <li>Optimización de la visualización y comprensión de los puntos de hardenización.</li>
 <li>Creación de un portal centralizado, con comandos verificados y adecuados para la ejecución de las medidas de hardening.</li>
 <li>Reducción de tiempos en actualizaciones y liberaciones de estándares e instructivos, gracias a pipelines de despliegue y control de versiones.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="antecedentes-y-propuesta">Antecedentes y Propuesta<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#antecedentes-y-propuesta" class="hash-link" aria-label="Direct link to Antecedentes y Propuesta" title="Direct link to Antecedentes y Propuesta">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="antecedente">Antecedente<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#antecedente" class="hash-link" aria-label="Direct link to Antecedente" title="Direct link to Antecedente">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="antecedentes-y-propuesta">Antecedentes y Propuesta<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#antecedentes-y-propuesta" class="hash-link" aria-label="Direct link to Antecedentes y Propuesta" title="Direct link to Antecedentes y Propuesta">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="antecedente">Antecedente<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#antecedente" class="hash-link" aria-label="Direct link to Antecedente" title="Direct link to Antecedente">​</a></h3>
 <p>En la actualidad, la entidad bancaria publica y libera los estándares de hardenización para servidores Unix y Wintel mediante archivos PDF, los cuales se distribuyen de forma trimestral o semestral. Si bien este formato permite una difusión relativamente sencilla, se han identificado diversos inconvenientes:</p>
 <ul>
 <li><strong>Desactualización y Alteraciones No Controladas</strong>: Dado que el estándar en PDF no se integra a un sistema de control de versiones, resulta complicado garantizar que todos los involucrados cuenten siempre con la última versión. Además, existe la posibilidad de que se generen copias alteradas o no oficiales.</li>
@@ -57,58 +99,58 @@
 <p>De este modo, migrar la documentación de un sistema de archivos PDF a un portal con Docusaurus permitirá a la entidad bancaria no solo mantener la información actualizada de manera más efectiva, sino también optimizar la claridad y la rapidez con la que se despliegan nuevas versiones o mejoras en los estándares de hardenización.</p>
 <h1>Alcance del Proyecto</h1>
 <p>Este proyecto contempla la migración de la documentación existente en formato PDF sobre estándares de hardenización para servidores Unix y Wintel a un portal web basado en Docusaurus. El objetivo es mejorar la legibilidad, simplificar la búsqueda y permitir actualizaciones más rápidas y controladas. Se incluirá la creación de pipelines de integración y despliegue continuo (CI/CD) que faciliten la publicación de nuevas versiones, así como la generación de un archivo final que consolide toda la información para su entrega a las entidades de control.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alcance-funcional">Alcance Funcional<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#alcance-funcional" class="hash-link" aria-label="Direct link to Alcance Funcional" title="Direct link to Alcance Funcional">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="migración-de-contenido">Migración de Contenido<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#migraci%C3%B3n-de-contenido" class="hash-link" aria-label="Direct link to Migración de Contenido" title="Direct link to Migración de Contenido">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alcance-funcional">Alcance Funcional<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#alcance-funcional" class="hash-link" aria-label="Direct link to Alcance Funcional" title="Direct link to Alcance Funcional">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="migración-de-contenido">Migración de Contenido<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#migraci%C3%B3n-de-contenido" class="hash-link" aria-label="Direct link to Migración de Contenido" title="Direct link to Migración de Contenido">​</a></h3>
 <ul>
 <li>Trasladar la documentación de estándares de hardening de PDF a un formato web, aprovechando las funcionalidades de Docusaurus.</li>
 <li>Estructurar la información en secciones, capítulos o módulos que faciliten la navegación y comprensión de los distintos instructivos.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="control-de-versiones-y-actualizaciones">Control de Versiones y Actualizaciones<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#control-de-versiones-y-actualizaciones" class="hash-link" aria-label="Direct link to Control de Versiones y Actualizaciones" title="Direct link to Control de Versiones y Actualizaciones">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="control-de-versiones-y-actualizaciones">Control de Versiones y Actualizaciones<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#control-de-versiones-y-actualizaciones" class="hash-link" aria-label="Direct link to Control de Versiones y Actualizaciones" title="Direct link to Control de Versiones y Actualizaciones">​</a></h3>
 <ul>
 <li>Implementar un flujo de trabajo que permita revisar, aprobar y publicar cambios de forma centralizada y segura.</li>
 <li>Proveer la capacidad de rastrear el historial de modificaciones en la documentación, de manera que se mantenga un registro claro y ordenado.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="mejoras-en-legibilidad-y-usabilidad">Mejoras en Legibilidad y Usabilidad<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#mejoras-en-legibilidad-y-usabilidad" class="hash-link" aria-label="Direct link to Mejoras en Legibilidad y Usabilidad" title="Direct link to Mejoras en Legibilidad y Usabilidad">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="mejoras-en-legibilidad-y-usabilidad">Mejoras en Legibilidad y Usabilidad<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#mejoras-en-legibilidad-y-usabilidad" class="hash-link" aria-label="Direct link to Mejoras en Legibilidad y Usabilidad" title="Direct link to Mejoras en Legibilidad y Usabilidad">​</a></h3>
 <ul>
 <li>Refinar la redacción y la presentación de comandos para reducir errores de copiado o ejecución.</li>
 <li>Asegurar que la estructura de la documentación sea intuitiva, con índices, menús y sistemas de búsqueda avanzados.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="consolidación-y-entregables">Consolidación y Entregables<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#consolidaci%C3%B3n-y-entregables" class="hash-link" aria-label="Direct link to Consolidación y Entregables" title="Direct link to Consolidación y Entregables">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="consolidación-y-entregables">Consolidación y Entregables<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#consolidaci%C3%B3n-y-entregables" class="hash-link" aria-label="Direct link to Consolidación y Entregables" title="Direct link to Consolidación y Entregables">​</a></h3>
 <ul>
 <li>Generar un único archivo (o paquete) que incluya todos los puntos de hardenización, destinado a la revisión y auditoría por parte de las entidades de control.</li>
 <li>Facilitar el acceso y la distribución interna, asegurando que cada versión cumpla con los lineamientos de seguridad y normativa vigente.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alcance-técnico">Alcance Técnico<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#alcance-t%C3%A9cnico" class="hash-link" aria-label="Direct link to Alcance Técnico" title="Direct link to Alcance Técnico">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="configuración-de-docusaurus">Configuración de Docusaurus<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#configuraci%C3%B3n-de-docusaurus" class="hash-link" aria-label="Direct link to Configuración de Docusaurus" title="Direct link to Configuración de Docusaurus">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alcance-técnico">Alcance Técnico<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#alcance-t%C3%A9cnico" class="hash-link" aria-label="Direct link to Alcance Técnico" title="Direct link to Alcance Técnico">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="configuración-de-docusaurus">Configuración de Docusaurus<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#configuraci%C3%B3n-de-docusaurus" class="hash-link" aria-label="Direct link to Configuración de Docusaurus" title="Direct link to Configuración de Docusaurus">​</a></h3>
 <ul>
 <li>Instalación y personalización del portal de documentación empleando la estructura y componentes de React que provee Docusaurus.</li>
 <li>Adaptación de temas y estilos para que la presentación del contenido refleje la imagen corporativa y cumpla con las políticas del banco.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="integración-con-repositorio-git">Integración con Repositorio Git<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#integraci%C3%B3n-con-repositorio-git" class="hash-link" aria-label="Direct link to Integración con Repositorio Git" title="Direct link to Integración con Repositorio Git">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="integración-con-repositorio-git">Integración con Repositorio Git<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#integraci%C3%B3n-con-repositorio-git" class="hash-link" aria-label="Direct link to Integración con Repositorio Git" title="Direct link to Integración con Repositorio Git">​</a></h3>
 <ul>
 <li>Uso de GitHub (u otro repositorio como Azure) para hospedar el código fuente del portal, garantizando la trazabilidad de los cambios.</li>
 <li>Configuración de pipelines de integración y despliegue continuo (CI/CD) para automatizar la publicación de actualizaciones en GitHub Pages u otro servicio de hosting.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="optimización-de-contenido-y-código">Optimización de Contenido y Código<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#optimizaci%C3%B3n-de-contenido-y-c%C3%B3digo" class="hash-link" aria-label="Direct link to Optimización de Contenido y Código" title="Direct link to Optimización de Contenido y Código">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="optimización-de-contenido-y-código">Optimización de Contenido y Código<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#optimizaci%C3%B3n-de-contenido-y-c%C3%B3digo" class="hash-link" aria-label="Direct link to Optimización de Contenido y Código" title="Direct link to Optimización de Contenido y Código">​</a></h3>
 <ul>
 <li>Conversión de archivos PDF a Markdown (MD), asegurando un correcto formato de comandos y secciones.</li>
 <li>Implementación de etiquetas y metadatos (frontmatter) para mejorar la búsqueda y el filtrado del contenido.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="pruebas-y-validaciones">Pruebas y Validaciones<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#pruebas-y-validaciones" class="hash-link" aria-label="Direct link to Pruebas y Validaciones" title="Direct link to Pruebas y Validaciones">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="pruebas-y-validaciones">Pruebas y Validaciones<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#pruebas-y-validaciones" class="hash-link" aria-label="Direct link to Pruebas y Validaciones" title="Direct link to Pruebas y Validaciones">​</a></h3>
 <ul>
 <li>Realización de pruebas de compatibilidad en distintos navegadores y sistemas operativos.</li>
 <li>Revisión del rendimiento y de la seguridad de la plataforma, adoptando buenas prácticas de protección de la información.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="exclusiones">Exclusiones<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#exclusiones" class="hash-link" aria-label="Direct link to Exclusiones" title="Direct link to Exclusiones">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="exclusiones">Exclusiones<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#exclusiones" class="hash-link" aria-label="Direct link to Exclusiones" title="Direct link to Exclusiones">​</a></h2>
 <ul>
 <li><strong>Reescritura de Políticas Internas o Reglamentos</strong>: El proyecto no contempla la modificación de lineamientos regulatorios o legales establecidos por la entidad bancaria o entidades de control.</li>
 <li><strong>Desarrollo de Integraciones con Sistemas Externos</strong>: No se prevé la creación de APIs o la conexión con plataformas de terceros, más allá del repositorio y el entorno de despliegue del portal.</li>
 <li><strong>Capacitaciones Masivas</strong>: Aunque se brindará orientación sobre el uso y actualización de la plataforma, la formación extensiva a todo el personal o a terceros no forma parte del alcance del proyecto.</li>
 </ul>
 <h1>Objetivos Generales y Específicos</h1>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="objetivo-general">Objetivo General<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#objetivo-general" class="hash-link" aria-label="Direct link to Objetivo General" title="Direct link to Objetivo General">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="objetivo-general">Objetivo General<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#objetivo-general" class="hash-link" aria-label="Direct link to Objetivo General" title="Direct link to Objetivo General">​</a></h2>
 <p>Implementar un portal web basado en Docusaurus para la documentación de estándares de hardenización en servidores Unix, que mejore la legibilidad, facilite la actualización continua y ofrezca un recurso unificado para su validación.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="objetivos-específicos">Objetivos Específicos<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#objetivos-espec%C3%ADficos" class="hash-link" aria-label="Direct link to Objetivos Específicos" title="Direct link to Objetivos Específicos">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="objetivos-específicos">Objetivos Específicos<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#objetivos-espec%C3%ADficos" class="hash-link" aria-label="Direct link to Objetivos Específicos" title="Direct link to Objetivos Específicos">​</a></h2>
 <ul>
 <li>Migrar la documentación desde archivos PDF a un entorno web, asegurando una estructura de contenidos clara y de fácil navegación.</li>
 <li>Mejorar la legibilidad y consistencia de los comandos y procedimientos de hardening, reduciendo el riesgo de errores y aumentando la eficiencia en la aplicación de cada punto.</li>
@@ -117,128 +159,54 @@
 <li>Analizar y validar la usabilidad del nuevo portal mediante un estudio comparativo que evalúe los beneficios frente al modelo anterior basado en archivos PDF, garantizando así la efectividad de la migración.</li>
 </ul>
 <h1>Entregables</h1>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="portal-web-en-docusaurus">Portal Web en Docusaurus<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#portal-web-en-docusaurus" class="hash-link" aria-label="Direct link to Portal Web en Docusaurus" title="Direct link to Portal Web en Docusaurus">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="portal-web-en-docusaurus">Portal Web en Docusaurus<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#portal-web-en-docusaurus" class="hash-link" aria-label="Direct link to Portal Web en Docusaurus" title="Direct link to Portal Web en Docusaurus">​</a></h2>
 <ul>
 <li>Migración completa de los estándares de hardenización (Unix) a un portal web construido con Docusaurus.</li>
 <li>Estructuración de la documentación en secciones claras y búsqueda integrada para facilitar la consulta.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="pipelines-de-integración-y-despliegue-continuo-cicd">Pipelines de Integración y Despliegue Continuo (CI/CD)<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#pipelines-de-integraci%C3%B3n-y-despliegue-continuo-cicd" class="hash-link" aria-label="Direct link to Pipelines de Integración y Despliegue Continuo (CI/CD)" title="Direct link to Pipelines de Integración y Despliegue Continuo (CI/CD)">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="pipelines-de-integración-y-despliegue-continuo-cicd">Pipelines de Integración y Despliegue Continuo (CI/CD)<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#pipelines-de-integraci%C3%B3n-y-despliegue-continuo-cicd" class="hash-link" aria-label="Direct link to Pipelines de Integración y Despliegue Continuo (CI/CD)" title="Direct link to Pipelines de Integración y Despliegue Continuo (CI/CD)">​</a></h2>
 <ul>
 <li>Configuración de flujos automáticos para validar, aprobar y publicar nuevas versiones de la documentación.</li>
 <li>Registro y seguimiento de cambios que permita tener trazabilidad y control de versiones.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="documento-unificado-de-hardening-para-entidades-de-control">Documento Unificado de Hardening para Entidades de Control<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#documento-unificado-de-hardening-para-entidades-de-control" class="hash-link" aria-label="Direct link to Documento Unificado de Hardening para Entidades de Control" title="Direct link to Documento Unificado de Hardening para Entidades de Control">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="documento-unificado-de-hardening-para-entidades-de-control">Documento Unificado de Hardening para Entidades de Control<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#documento-unificado-de-hardening-para-entidades-de-control" class="hash-link" aria-label="Direct link to Documento Unificado de Hardening para Entidades de Control" title="Direct link to Documento Unificado de Hardening para Entidades de Control">​</a></h2>
 <ul>
 <li>Consolidación de todos los puntos de hardenización en un formato único (por ejemplo, PDF o anexo), que sirva como referencia oficial para auditorías y revisiones regulatorias.</li>
 <li>Inclusión de comandos, descripciones de procedimientos y justificaciones técnicas de cada medida de seguridad.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="manual-de-usuario-y-guía-de-operación-del-portal">Manual de Usuario y Guía de Operación del Portal<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#manual-de-usuario-y-gu%C3%ADa-de-operaci%C3%B3n-del-portal" class="hash-link" aria-label="Direct link to Manual de Usuario y Guía de Operación del Portal" title="Direct link to Manual de Usuario y Guía de Operación del Portal">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="manual-de-usuario-y-guía-de-operación-del-portal">Manual de Usuario y Guía de Operación del Portal<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#manual-de-usuario-y-gu%C3%ADa-de-operaci%C3%B3n-del-portal" class="hash-link" aria-label="Direct link to Manual de Usuario y Guía de Operación del Portal" title="Direct link to Manual de Usuario y Guía de Operación del Portal">​</a></h2>
 <ul>
 <li>Instrucciones detalladas sobre cómo navegar, buscar información y proponer cambios dentro del portal en Docusaurus.</li>
 <li>Orientaciones para el uso de pipelines (aprobaciones y despliegues) y mejores prácticas para mantener la documentación actualizada.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="estudio-comparativo-y-validación-de-usabilidad">Estudio Comparativo y Validación de Usabilidad<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#estudio-comparativo-y-validaci%C3%B3n-de-usabilidad" class="hash-link" aria-label="Direct link to Estudio Comparativo y Validación de Usabilidad" title="Direct link to Estudio Comparativo y Validación de Usabilidad">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="estudio-comparativo-y-validación-de-usabilidad">Estudio Comparativo y Validación de Usabilidad<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#estudio-comparativo-y-validaci%C3%B3n-de-usabilidad" class="hash-link" aria-label="Direct link to Estudio Comparativo y Validación de Usabilidad" title="Direct link to Estudio Comparativo y Validación de Usabilidad">​</a></h2>
 <ul>
 <li>Informe que muestre los resultados de comparar la nueva solución frente al uso de archivos PDF, evaluando la facilidad de uso, la rapidez para encontrar información y la calidad de la documentación.</li>
 <li>Conclusiones y recomendaciones basadas en el feedback de usuarios clave o equipos de TI.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="acta-de-cierre-e-informe-final">Acta de Cierre e Informe Final<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#acta-de-cierre-e-informe-final" class="hash-link" aria-label="Direct link to Acta de Cierre e Informe Final" title="Direct link to Acta de Cierre e Informe Final">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="acta-de-cierre-e-informe-final">Acta de Cierre e Informe Final<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#acta-de-cierre-e-informe-final" class="hash-link" aria-label="Direct link to Acta de Cierre e Informe Final" title="Direct link to Acta de Cierre e Informe Final">​</a></h2>
 <ul>
 <li>Documento que recoja las lecciones aprendidas, el cumplimiento de los objetivos y la confirmación de la entrega de todos los componentes del proyecto.</li>
 <li>Validación formal por parte de los interesados y evidencia de que se han cumplido los criterios de aceptación.</li>
 </ul>
 <h1>Metodología de Trabajo</h1>
 <p>La metodología propuesta combina elementos de Scrum, Cascada y Kamba para aprovechar la claridad y estructura de un enfoque secuencial, al tiempo que se incorporan iteraciones cortas que permitan ajustar y mejorar el producto conforme avanza el proyecto.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="herramientas-y-comunicación">Herramientas y Comunicación:<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#herramientas-y-comunicaci%C3%B3n" class="hash-link" aria-label="Direct link to Herramientas y Comunicación:" title="Direct link to Herramientas y Comunicación:">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="herramientas-y-comunicación">Herramientas y Comunicación:<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#herramientas-y-comunicaci%C3%B3n" class="hash-link" aria-label="Direct link to Herramientas y Comunicación:" title="Direct link to Herramientas y Comunicación:">​</a></h2>
 <ul>
 <li><strong>Microsoft Teams</strong>: Principal canal de comunicación para reuniones de seguimiento, intercambio de archivos y coordinación diaria.</li>
 <li>Se programarán videoconferencias quincenales para la validación de avances e hitos.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="git-y-github">Git y GitHub:<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#git-y-github" class="hash-link" aria-label="Direct link to Git y GitHub:" title="Direct link to Git y GitHub:">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="git-y-github">Git y GitHub:<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#git-y-github" class="hash-link" aria-label="Direct link to Git y GitHub:" title="Direct link to Git y GitHub:">​</a></h2>
 <ul>
 <li>Repositorio principal donde se almacenarán los archivos fuente del portal en Docusaurus y los documentos relacionados.</li>
 <li>Se habilitarán branches para cada fase o sprint, facilitando el control de versiones y la colaboración entre los miembros del equipo.</li>
 <li>Mediante GitHub Actions (o herramientas equivalentes), se implementarán pipelines de integración y despliegue continuo (CI/CD).</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="registro-de-progreso-y-documentación">Registro de Progreso y Documentación:<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#registro-de-progreso-y-documentaci%C3%B3n" class="hash-link" aria-label="Direct link to Registro de Progreso y Documentación:" title="Direct link to Registro de Progreso y Documentación:">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="registro-de-progreso-y-documentación">Registro de Progreso y Documentación:<a href="https://luisealmeida.github.io/hardening/blog/cis_b_enchmarks#registro-de-progreso-y-documentaci%C3%B3n" class="hash-link" aria-label="Direct link to Registro de Progreso y Documentación:" title="Direct link to Registro de Progreso y Documentación:">​</a></h2>
 <ul>
 <li>Las decisiones clave y acuerdos se documentarán en actas breves dentro de Teams y reuniones semanales, asegurando transparencia y trazabilidad.</li>
 </ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://luisealmeida.github.io/hardening/blog/welcome</link>
-            <guid>https://luisealmeida.github.io/hardening/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://luisealmeida.github.io/hardening/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>Facebook</category>
-            <category>Hello</category>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://luisealmeida.github.io/hardening/blog/mdx-blog-post</link>
-            <guid>https://luisealmeida.github.io/hardening/blog/mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-            <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p></div></div>
-<!-- -->
-<p>For example, use JSX to create an interactive button:</p>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<button>Click me!</button>]]></content:encoded>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://luisealmeida.github.io/hardening/blog/long-blog-post</link>
-            <guid>https://luisealmeida.github.io/hardening/blog/long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-            <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>Hello</category>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://luisealmeida.github.io/hardening/blog/first-blog-post</link>
-            <guid>https://luisealmeida.github.io/hardening/blog/first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>Hola</category>
-            <category>Docusaurus</category>
+            <category>Proyecto</category>
         </item>
     </channel>
 </rss>
