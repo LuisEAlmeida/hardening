@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhardening=self.webpackChunkhardening||[]).push([[1462],{5634:a=>{a.exports=JSON.parse('{"tag":{"label":"paper","permalink":"/hardening/docs/tags/paper","allTagsPath":"/hardening/docs/tags","count":1,"items":[{"id":"paper/paper","title":"Estructura Paper","description":"Abstract","permalink":"/hardening/docs/paper/paper"}],"unlisted":false}}')}}]);
