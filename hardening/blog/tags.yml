@@ -17,3 +17,18 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+hardening:
+  label: Hardening
+  permalink: /hardening
+  description: Hardening tag description
+
+versioning:
+  label: Versioning
+  permalink: /versioning
+  description: Versioning tag description
+
+proyecto:
+  label: Proyecto
+  permalink: /proyecto
+  description: Proyecto tag description

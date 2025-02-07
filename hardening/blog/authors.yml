@@ -21,3 +21,15 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+luis:
+  name: Luis Almeida
+  title: Assistant System Engineer
+  url: https://www.researchgate.net/profile/Luis_Almeida61
+  image_url: https://i1.rgstatic.net/ii/profile.image/11431281132222320-1680204959846_Q128/Luis_Almeida61.jpg
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-luis-almeida-entradas'
+  socials:
+    linkedin: luisealm
+    github: LuisEAlmeida
