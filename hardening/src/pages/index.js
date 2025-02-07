@@ -29,7 +29,7 @@ const featuresData = [
     Svg: { about }, // Un icono SVG representando la feature
     title: 'Conoce al equipo: Las mentes detrás del proyecto',
     description: 'Descubre a las personas que hacen posible este proyecto. Conoce sus perfiles, experiencia.',
-    url: '/hardening/blog/welcome',
+    url: '/hardening/blog/cis_b_enchmarks',
   },
 ];
 
