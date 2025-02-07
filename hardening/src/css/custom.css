@@ -1,33 +1,53 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
+/* Estilos globales mejorados para una mejor usabilidad y apariencia */
 :root {
-  --ifm-color-primary: #FFC107;
-  --ifm-color-primary-dark: #FFB300;
-  --ifm-color-primary-darker: #FFA000;
-  --ifm-color-primary-darkest: #FF8F00;
-  --ifm-color-primary-light: #FFD54F;
-  --ifm-color-primary-lighter: #FFEB3B;
-  --ifm-color-primary-lightest: #FFF176;
+  --ifm-color-primary: #007DC5; /* Azul principal */
+  --ifm-color-secondary: #FFC708; /* Amarillo */
+  --ifm-color-tertiary: #F36D29; /* Naranja */
+  --ifm-color-quaternary: #FE0205; /* Rojo */
+  --ifm-color-quinary: #EE3984; /* Rosa */
+  --ifm-color-senary: #7800DA; /* Morado */
+
+  /* Sombras y bordes para mejorar la legibilidad */
+  --ifm-box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  --ifm-border-radius: 8px;
+
+  /* Tipografía */
+  --ifm-font-size-base: 16px;
+  --ifm-line-height: 1.6;
+
+  /* Espaciados */
+  --ifm-spacing-small: 8px;
+  --ifm-spacing-medium: 16px;
+  --ifm-spacing-large: 24px;
+
+  /* Código */
   --ifm-code-font-size: 95%;
+  --ifm-code-background: rgba(0, 125, 197, 0.1);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Modo oscuro optimizado para mejor contraste */
 [data-theme='dark'] {
-  --ifm-color-primary: #FFC107;        /* Amarillo base */
-  --ifm-color-primary-dark: #FFB300;   /* Más oscuro */
-  --ifm-color-primary-darker: #FFA000; /* Aún más oscuro */
-  --ifm-color-primary-darkest: #FF8F00;/* El más oscuro */
+  --ifm-color-primary: #007DC5;
+  --ifm-color-secondary: #FFC708;
+  --ifm-color-tertiary: #F36D29;
+  --ifm-color-quaternary: #FE0205;
+  --ifm-color-quinary: #EE3984;
+  --ifm-color-senary: #7800DA;
 
-  --ifm-color-primary-light: #FFD54F;  /* Más claro */
-  --ifm-color-primary-lighter: #FFEB3B;/* Aún más claro */
-  --ifm-color-primary-lightest: #FFF176;/* El más claro */
-
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  /* Ajustes de fondo y contraste en modo oscuro */
+  --ifm-background-color: #121212;
+  --ifm-text-color: #EAEAEA;
+  --ifm-border-color: rgba(255, 255, 255, 0.2);
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
 }
 
+/* Mejora de la responsividad */
+@media (max-width: 768px) {
+  :root {
+    --ifm-font-size-base: 14px;
+    --ifm-spacing-small: 6px;
+    --ifm-spacing-medium: 12px;
+    --ifm-spacing-large: 18px;
+  }
+}

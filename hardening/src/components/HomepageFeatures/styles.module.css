@@ -9,3 +9,183 @@
   height: 200px;
   width: 200px;
 }
+/* Asegura que cada tarjeta use flexbox en columna y ocupe toda la altura disponible */
+.featureCard {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  /* Opcional: agrega un poco de padding o margen para separar cada tarjeta */
+  padding: var(--ifm-spacing-medium);
+}
+
+/* Coloca el botón al final, dejando un margen superior automático */
+.featureCta {
+  margin-top: auto;
+  padding-top: var(--ifm-spacing-small);
+}
+
+/* Si es necesario, puedes ajustar otros estilos, por ejemplo, para la imagen */
+.featureSvg {
+  width: 100%;
+  height: auto;
+}
+/* Estilos generales para la sección de features */
+.features {
+  padding: 4rem 0;
+  background: #f9f9f9;
+}
+
+/* Estilo para cada tarjeta (featureCard) */
+.featureCard {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Efecto hover para elevar la tarjeta y realzar la sombra */
+.featureCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos para la imagen SVG de la tarjeta */
+.featureSvg {
+  max-width: 100%;
+  margin-bottom: 1rem;
+  animation: fadeIn 1s ease;
+}
+
+/* Animación de aparición */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Contenedor para el botón CTA, alineado al fondo */
+.featureCta {
+  margin-top: auto;
+  padding-top: 1rem;
+  text-align: center;
+}
+
+/* Transición para el botón CTA */
+.featureCta button {
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+/* Efecto hover para el botón CTA */
+.featureCta button:hover {
+  background: #005a9c; /* Variante más oscura del color primario */
+  transform: scale(1.05);
+}
+
+/* Estilos para los controles del carrusel */
+.carouselControls {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  gap: 1rem;
+}
+
+/* Botones del carrusel */
+.carouselButton {
+  background: #007dc5;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+/* Efecto hover para los botones del carrusel */
+.carouselButton:hover {
+  background: #005a9c;
+}
+/* Estilo para la sección de features */
+.features {
+  padding: var(--ifm-spacing-large) 0;
+}
+
+/* Estilo para la tarjeta de cada feature */
+.featureCard {
+  background-color: var(--ifm-background-color, #fff);
+  box-shadow: var(--ifm-box-shadow);
+  border-radius: var(--ifm-border-radius);
+  padding: var(--ifm-spacing-medium);
+  text-align: center;
+  transition: transform 0.2s ease-in-out, box-shadow 0.3s;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+  border-color: var(--ifm-color-primary);
+}
+
+/* Estilos del SVG */
+.featureSvg {
+  width: 10rem;
+  height: 10rem;
+  fill: var(--ifm-color-primary);
+}
+
+/* Contenedor del contenido */
+.featureContent {
+  padding: 0 var(--ifm-spacing-medium);
+}
+
+/* Estilo del título */
+.featureTitle {
+  color: var(--ifm-color-secondary);
+}
+
+/* Estilo de la descripción */
+.featureDescription {
+  color: var(--ifm-text-color);
+  font-size: var(--ifm-font-size-base);
+  line-height: var(--ifm-line-height);
+}
+
+/* Estilos del mensaje cuando no hay features */
+.noFeaturesMessage {
+  text-align: center;
+  color: var(--ifm-text-color);
+  font-size: var(--ifm-font-size-base);
+  margin-top: var(--ifm-spacing-large);
+}
+
+/* Estilos del carrusel */
+.carousel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.carouselButton {
+  background: var(--ifm-color-primary);
+  color: #fff;
+  border: none;
+  padding: var(--ifm-spacing-small);
+  font-size: 24px;
+  cursor: pointer;
+  border-radius: var(--ifm-border-radius);
+}
+
+.carouselButton:hover {
+  background: var(--ifm-color-quaternary);
+}

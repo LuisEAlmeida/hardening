@@ -1,19 +1,10 @@
 # Contenido
 
-- [Resumen Ejecutivo](#resumen-ejecutivo)
-- [Descripción Breve del Proyecto](#descripción-breve-del-proyecto)
-- [Objetivos Principales](#objetivos-principales)
-- [Alcance del Proyecto](#alcance-del-proyecto)
-- [Duración](#duración)
-- [Presupuesto Aproximado](#presupuesto-aproximado)
-- [Beneficios Clave para la Organización o el Cliente](#beneficios-clave-para-la-organización-o-el-cliente)
-- [Antecedentes o Contexto](#antecedentes-o-contexto)
-- [Cómo Docusaurus Ayudará a Resolver Estos Problemas](#cómo-docusaurus-ayudará-a-resolver-estos-problemas)
-
 ## Resumen Ejecutivo
 
 ### Descripción Breve del Proyecto
 Este proyecto busca migrar la documentación existente sobre estándares de hardenización para una entidad bancaria a un portal basado en Docusaurus. El objetivo principal es mejorar la legibilidad, la claridad de los comandos y la calidad de la redacción. Además, se prevé implementar pipelines que permitan actualizar el portal de forma justificada y continua. Finalmente, se consolidará toda la información en un archivo único que pueda ser entregado a las entidades de control.
+<!-- truncate -->
 
 ### Objetivos Principales
 - Desarrollar un portal de documentación que reúna los diferentes instructivos de hardenización para una entidad bancaria.
