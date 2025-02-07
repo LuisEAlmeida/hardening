@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Instructivo de Hardening de Servidores Red Hat - CentOS Blog</title>
+        <title>Proyecto de Hardening Blog</title>
         <link>https://luisealmeida.github.io/hardening/blog</link>
-        <description>Instructivo de Hardening de Servidores Red Hat - CentOS Blog</description>
+        <description>Proyecto de Hardening Blog</description>
         <lastBuildDate>Thu, 30 Jan 2025 02:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -13,19 +13,8 @@
             <link>https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks</link>
             <guid>https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks</guid>
             <pubDate>Thu, 30 Jan 2025 02:11:32 GMT</pubDate>
-            <description><![CDATA[- Resumen Ejecutivo]]></description>
-            <content:encoded><![CDATA[<ul>
-<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#resumen-ejecutivo">Resumen Ejecutivo</a></li>
-<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#descripci%C3%B3n-breve-del-proyecto">Descripción Breve del Proyecto</a></li>
-<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#objetivos-principales">Objetivos Principales</a></li>
-<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#alcance-del-proyecto">Alcance del Proyecto</a></li>
-<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#duraci%C3%B3n">Duración</a></li>
-<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#presupuesto-aproximado">Presupuesto Aproximado</a></li>
-<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#beneficios-clave-para-la-organizaci%C3%B3n-o-el-cliente">Beneficios Clave para la Organización o el Cliente</a></li>
-<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#antecedentes-o-contexto">Antecedentes o Contexto</a></li>
-<li><a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#c%C3%B3mo-docusaurus-ayudar%C3%A1-a-resolver-estos-problemas">Cómo Docusaurus Ayudará a Resolver Estos Problemas</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="resumen-ejecutivo">Resumen Ejecutivo<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#resumen-ejecutivo" class="hash-link" aria-label="Direct link to Resumen Ejecutivo" title="Direct link to Resumen Ejecutivo">​</a></h2>
+            <description><![CDATA[Resumen Ejecutivo]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="resumen-ejecutivo">Resumen Ejecutivo<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#resumen-ejecutivo" class="hash-link" aria-label="Direct link to Resumen Ejecutivo" title="Direct link to Resumen Ejecutivo">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="descripción-breve-del-proyecto">Descripción Breve del Proyecto<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#descripci%C3%B3n-breve-del-proyecto" class="hash-link" aria-label="Direct link to Descripción Breve del Proyecto" title="Direct link to Descripción Breve del Proyecto">​</a></h3>
 <p>Este proyecto busca migrar la documentación existente sobre estándares de hardenización para una entidad bancaria a un portal basado en Docusaurus. El objetivo principal es mejorar la legibilidad, la claridad de los comandos y la calidad de la redacción. Además, se prevé implementar pipelines que permitan actualizar el portal de forma justificada y continua. Finalmente, se consolidará toda la información en un archivo único que pueda ser entregado a las entidades de control.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="objetivos-principales">Objetivos Principales<a href="https://luisealmeida.github.io/hardening/blog/CIS_Benchmarks#objetivos-principales" class="hash-link" aria-label="Direct link to Objetivos Principales" title="Direct link to Objetivos Principales">​</a></h3>
