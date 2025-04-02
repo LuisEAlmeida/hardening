@@ -1,0 +1,66 @@
+---
+title: 6.2.3.3 - Bajo
+tags: [Torre Unix, IST]
+sidebar_position: 3
+---
+
+import IndicadorRiesgo from '@site/src/components/IndicadorRiesgo';
+
+# 6.2.3.3
+<IndicadorRiesgo value1={3} value2={1} value3={2} />
+
+## Asegurar que systemd-journal-remote esté instalado (Automatizado)
+
+### Aplicabilidad del perfil:
+- **Nivel 1 - Servidor**
+- **Nivel 1 - Estación de trabajo**
+
+### Descripción:
+Journal **systemd-journal-remote** admite la capacidad de enviar eventos de registro que recopila a un host de registro remoto o recibir mensajes de hosts remotos, lo que permite la gestión centralizada de registros.
+
+### Justificación:
+Almacenar datos de registro en un host remoto protege la integridad de los registros contra ataques locales. Si un atacante obtiene acceso root en el sistema local, podría manipular o eliminar datos de registro almacenados en el sistema local.
+
+> ℹ **Nota:** Esta recomendación **solo aplica si journald es el método elegido para el registro del cliente**. No aplique esta recomendación si se utiliza **rsyslog**.
+
+### Auditoría:
+- **SI** se utilizará `journald` para el registro en el sistema:
+  
+Ejecute el siguiente comando para verificar que **systemd-journal-remote** está instalado:
+
+```bash
+rpm -q systemd-journal-remote
+```
+
+Verifique que la salida coincida con:
+
+```bash
+systemd-journal-remote-<versión>
+```
+
+### Remediación:
+Ejecute el siguiente comando para instalar `systemd-journal-remote`:
+
+```bash
+dnf install systemd-journal-remote
+```
+
+### Referencias:
+1. NIST SP 800-53 Rev. 5: AU-2, AU-7, AU-12
+
+## Controles CIS
+
+| Versión de Controles | Control | IG 1 | IG 2 | IG 3 |
+|----------------------|---------|------|------|------|
+| **v8** | **8.2 Recopilar registros de auditoría**  Recopile registros de auditoría. Asegúrese de que el registro, según el proceso de gestión de registros de auditoría de la empresa, se haya habilitado en todos los activos empresariales. | 🟢 | 🟠 | 🔵 |
+| **v7** | **6.2 Activar el registro de auditoría**  Asegúrese de que el registro local se haya habilitado en todos los sistemas y dispositivos de red. | 🟢 | 🟠 | 🔵 |
+| **v7** | **6.3 Habilitar el registro detallado**  Habilite el registro del sistema para incluir información detallada, como la fuente del evento, fecha, usuario, marca de tiempo, direcciones de origen, direcciones de destino y otros elementos útiles. |  | 🟠 | 🔵 |
+
+## Mapeo de MITRE ATT&CK
+
+| Técnicas / Subtécnicas | Tácticas | Mitigaciones |
+|------------------------|---------|-------------|
+| T1070, T1070.002, T1562, T1562.006 | TA0040 | M1029 |
+
+
+
